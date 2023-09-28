@@ -20,7 +20,8 @@
 ### Overview 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features like Number of Pregnancies, Insulin Level, Age, BMI.The data set that has used in this project has taken from the [kaggle](https://www.kaggle.com/) . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage." and used a simple [random forest classifier](https://en.wikipedia.org/wiki/Random_forest). 
 
-![live](https://github.com/shsarv/Diabetes-prediction/blob/master/Resource/live1.gif)
+![live](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/live1.gif)
+
 
 
 ### Motivation
@@ -51,9 +52,9 @@ The following points were the objective of the project (The main intention was t
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/pandas.jpeg" width=170>
+<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/heroku.png" width=170>
+<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/numpy.png" width=170>
+<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/pandas.jpeg" width=170>
 
 
 ### Installation 
