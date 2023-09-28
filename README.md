@@ -11,10 +11,7 @@
   * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
-  * [Bug / Feature Request](#bug-feature-request)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
+
 
 
 ### Overview 
@@ -52,9 +49,9 @@ The following points were the objective of the project (The main intention was t
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/heroku.png" width=170>
-<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/numpy.png" width=170>
-<img target="_blank" src="[https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/](https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/pandas.jpeg" width=170>
+<img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/heroku.png" width=170>
+<img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/numpy.png" width=170>
+<img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/pandas.jpeg" width=170>
 
 
 ### Installation 
@@ -67,10 +64,7 @@ The following points were the objective of the project (The main intention was t
 - Execute the command: python app.py
 
 
-### Bug Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shsarv/Diabetes-prediction/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
 
 
 
