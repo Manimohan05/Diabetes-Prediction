@@ -49,7 +49,7 @@ The following points were the objective of the project (The main intention was t
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/heroku.png" width=170>
+<img target="_blank" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fheroku_original_wordmark_logo_icon_146482.png&tbnid=wc9GPytxCpunGM&vet=12ahUKEwiC5vb8-cyBAxWko-kKHUKIDGwQMygCegQIARBM..i&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fheroku-original-wordmark-logo%2F146482&docid=CRSkqvQzXBUEmM&w=512&h=512&q=heruku%20logo&ved=2ahUKEwiC5vb8-cyBAxWko-kKHUKIDGwQMygCegQIARBM" width=170>
 <img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/numpy.png" width=170>
 <img target="_blank" src="[https://github.com/Manimohan05/Diabetes-Prediction/blob/main/Diabetes-prediction%20deployed/Resource/pandas.jpeg" width=170>
 
